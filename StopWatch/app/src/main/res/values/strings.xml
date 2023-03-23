@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">BmiCalculator</string>
+=======
+    <string name="app_name">StopWatch</string>
+>>>>>>> 147666a (스톱워치)
+</resources>

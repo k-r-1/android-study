@@ -1,0 +1,20 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+<<<<<<< HEAD
+rootProject.name = "BmiCalculator"
+=======
+rootProject.name = "StopWatch"
+>>>>>>> 147666a (스톱워치)
+include ':app'
